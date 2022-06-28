@@ -1,0 +1,20 @@
+R10;Not Reserved
+R11;Not Reserved
+R12;Reserved
+R13;Not Reserved
+R14;Not Reserved
+R15;Not Reserved
+R16;Not Reserved
+R17;Not Reserved
+R18;Not Reserved
+R19;Not Reserved
+R20;Not Reserved
+R21;Not Reserved
+R22;Not Reserved
+R23;Not Reserved
+R24;Not Reserved
+R25;Not Reserved
+R26;Not Reserved
+R27;Not Reserved
+R28;Not Reserved
+R29;Not Reserved
